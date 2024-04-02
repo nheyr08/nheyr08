@@ -114,7 +114,7 @@ hobbies: ["Gaming", "Workout", "Basketball", "Art", "Comedy"]
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166974096-7aeecad4-483e-4c85-983f-f4b37b3f794e.png"/>
 </a> -->
 
-<a href="https://wilsosomdb.medium.com/">
+<a href="https://medium.com/@wilsosomdb">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166973962-d05d145a-b6a0-4643-bd3d-5ac845679367.png"/>
 </a>
 <a href="https://www.instagram.com/nherypic/">
@@ -125,4 +125,5 @@ hobbies: ["Gaming", "Workout", "Basketball", "Art", "Comedy"]
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166974271-91dfa250-d70b-4cb9-8707-f1bda1b708c3.png"/>
 https://github.com/kyechan99/capsule-render?tab=readme-ov-file#color
 </a> -->
+
 ---
