@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 ```yaml
 name: Betsaleel Henry (李松磊)
 located_in: Hsinchu, Taiwan
-ongoing: Research Assistant | Graduate student @NYCU
+ongoing: Research Assistant | Graduate student @NYCU_SI2Lab
 education:
   - "Avid Programmer and Machine Learning Enthusiast"
   - "Master's in Electrical Engineering and Computer Science (EECS)"
