@@ -38,6 +38,10 @@ technical_background:
   - "TA - Electronics Lab & Integrated Circuit lab (upcoming)"
 2024 Goals: 
   - "Create 25+ Projects and learn at least 5-10 New Technologies."
+Languages:
+  - "English(advance)"
+  - "French(Native)"
+  - "Chinese(fluent)"
 hobbies: 
   - "Gaming"
   - "Workout"
