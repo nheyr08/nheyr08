@@ -40,7 +40,7 @@ technical_background:
   - "Create 25+ Projects and learn at least 5-10 New Technologies."
 Languages:
   - "English(advance)"
-  - "French(Native)"
+  - "French(native)"
   - "Chinese(fluent)"
 hobbies: 
   - "Gaming"
