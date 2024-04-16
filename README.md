@@ -35,9 +35,7 @@ technical_background:
   - "Digital IC designer"
   - "Machine Learning Researcher"
   - "Intern - Artificial Intelligence & Backend"
-  - "TA - Electronics Lab & Integrated Circuit lab (upcoming)"
-2024 Goals: 
-  - "Create 25+ Projects and learn at least 5-10 New Technologies."
+  - "TA - Electronics Lab"
 Languages:
   - "English(advance)"
   - "French(native)"
@@ -114,16 +112,16 @@ hobbies:
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166974096-7aeecad4-483e-4c85-983f-f4b37b3f794e.png"/>
 </a> -->
 
-<a href="https://medium.com/@wilsosomdb/about">
+<!--<a href="https://medium.com/@/about">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166973962-d05d145a-b6a0-4643-bd3d-5ac845679367.png"/>
-</a>
-<a href="https://www.instagram.com/nherypic/">
+</a>-->
+<!-- <a href="https://www.instagram.com/nherypic/">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
-</a>
+</a> -->
 </p>
-<!-- <a href="https://twitter.com/Ipiyushmalhotra">
+<!-- <a href="">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166974271-91dfa250-d70b-4cb9-8707-f1bda1b708c3.png"/>
-https://github.com/kyechan99/capsule-render?tab=readme-ov-file#color
+https://github.com//capsule-render?tab=readme-ov-file#color
 </a> -->
 
 ---
