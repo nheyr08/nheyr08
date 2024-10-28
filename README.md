@@ -23,28 +23,25 @@ name: Betsaleel Henry (李松磊)
 located_in: Hsinchu, Taiwan
 ongoing: Research Assistant | Graduate student @NYCU_SI2Lab
 education:
-  - "Avid Programmer and Machine Learning Enthusiast"
   - "Master's in Electrical Engineering and Computer Science (EECS)"
   - "Bachelor's in Electrical and Computer Engineering (ECE)"
 fields_of_interests:
-  - "Custom hardware for deep learning"
+  - "Deep learning"
   - "Hardware-software co-design for AI acceleration"
   - "Computer Vision in Embedded Systems"
-  - "Parallel processing for AI inference"
+  - "Parallel processing for AI"
 technical_background:
-  - "Digital IC designer"
+  - "Digital IC designer (Verification)"
   - "Machine Learning Researcher"
-  - "Intern - Artificial Intelligence & Backend"
-  - "TA - Electronics Lab"
+Roles:
+  - "Conducting Research on Deep Neural Network Compression via Pruning & Quantization" Ongoing
+  - "Intern - Digital IC design@Novatek Microelectronics (Taiwan)" 2024
+  - "Intern - Artificial Intelligence & Backend (Taiwan)" 2023
+  - "TA - Electronics Lab" 2022
 Languages:
   - "English(advance)"
   - "French(native)"
   - "Chinese(fluent)"
-hobbies: 
-  - "Gaming"
-  - "Workout"
-  - "Art"
-  - "Music"
 ```
   
 ---
