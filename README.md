@@ -35,13 +35,13 @@ technical_background:
   - "Machine Learning Researcher"
 Roles:
   - "Conducting Research on Deep Neural Network Compression via Pruning & Quantization" Ongoing
-  - "Intern - Digital IC design@Novatek Microelectronics (Taiwan)" 2024
-  - "Intern - Artificial Intelligence & Backend (Taiwan)" 2023
+  - "Intern - Digital IC design @Novatek Microelectronics (Taiwan)" 2024
+  - "Intern - Backend Intern @Gliacloud (Taiwan)" 2023
   - "TA - Electronics Lab" 2022
 Languages:
-  - "English(advance)"
-  - "French(native)"
   - "Chinese(fluent)"
+  - "French(native)"
+  - "Haitian Creole (native)"
 ```
   
 ---
@@ -53,11 +53,8 @@ Languages:
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="cLang" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original-wordmark.svg"  width="45" height="45" />
-          
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="45" height="45" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/>       
